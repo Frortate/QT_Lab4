@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DelegateForPhilatelist.qml</file>
+        <file>DialogForAddorEdit.qml</file>
+        <file>DialogForCount.qml</file>
+    </qresource>
+</RCC>
